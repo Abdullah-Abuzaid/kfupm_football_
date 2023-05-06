@@ -1,0 +1,19 @@
+const k3DLogo = "assets/icon/logo/logo.svg";
+const k3DprinterLottie = "assets/lottie/3d_printer_lottie.json";
+const k3DprinterLottie2 = "assets/lottie/3d_printing_lottie_2.json";
+const kPrintFarm = "assets/images/printfarm.jpg";
+const kPrusa1 = "assets/images/printers_farm/prusa_printer.jpg";
+const kPrusa2 = "assets/images/printers_farm/prusa_printer1.jpg";
+const kPrusa3 = "assets/images/printers_farm/prusa_printer2.jpg";
+const kPrusaPrinting = "assets/images/printers_farm/prusa_printing.jpg";
+const kOnePrinter = "assets/images/printers_farm/one_printer.jpg";
+const kEnderFarm = "assets/images/printers_farm/ender3_farm.jpg";
+
+const kHourGlassLottie = "assets/lottie/hourglass_blue.json";
+const kDeliveryTruckLottie = "assets/lottie/blue_truck2.json";
+const kQualityLottie = "assets/lottie/premium_quality.json";
+const kValueLottie = "assets/lottie/value.json";
+const kKfupmlandscape = "assets/kfupm/images/kfupm landscape.jpg";
+const kKfupmLogo = "assets/kfupm/images/KFUPM LOGO.png";
+const kSportClubLogo = "assets/kfupm/images/sport club logo.jpg";
+const kFootballPlayerSvg = "assets/kfupm/svg/undraw_junior_soccer_6sop.svg";
